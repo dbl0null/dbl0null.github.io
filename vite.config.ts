@@ -17,7 +17,7 @@ export default defineConfig({
           metaImageURL: CONFIG.seo.imageURL,
           googleAnalyticsScript: CONFIG.googleAnalytics.id
             ? `<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=${CONFIG.googleAnalytics.id}"></script>
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=${CONFIG.googleAnalytics.id}"></script>-->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
