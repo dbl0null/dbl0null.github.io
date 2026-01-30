@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'dbl0null', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['dbl0null/gitprofile', 'dbl0null/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -55,7 +55,7 @@ const CONFIG = {
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'dbl0null@gmail.com',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -70,7 +70,7 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.dbl0null.com',
     phone: '',
     email: '',
   },
