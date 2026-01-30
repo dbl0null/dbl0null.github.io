@@ -51,9 +51,9 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of dbl0null', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: '',
     x: '',
     mastodon: 'dbl0null@gmail.com',
     researchGate: '',
