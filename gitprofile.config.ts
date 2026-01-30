@@ -54,7 +54,7 @@ const CONFIG = {
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
   social: {
     linkedin: 'ariful-alam',
-    x: 'arif_szn',
+    x: '',
     mastodon: 'dbl0null@gmail.com',
     researchGate: '',
     facebook: '',
@@ -65,11 +65,11 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
-    telegram: '',
+    telegram: 'dbl0null',
     website: 'https://www.dbl0null.com',
     phone: '',
     email: '',
